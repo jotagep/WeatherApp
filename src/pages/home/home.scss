@@ -1,3 +1,23 @@
 page-home {
+    .temp{
+        font-size: 3em;
+        text-align: center;
+        font-weight: normal;
+    }
 
+    .location, .icon, .desc{
+        text-align: center;
+    }
+
+    .icon img{
+        width: 6em;
+    }
+
+    .location{
+        font-size: 2em;
+    }
+
+    .desc{
+        font-size: 1,6em;
+    }
 }
